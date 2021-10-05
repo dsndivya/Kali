@@ -1,1 +1,14 @@
-db insert doomains twilio.com~Twilio domain 1
+db insert domains twilio.com~Twilio domain 1
+
+db insert domains www.twilio.com~Twilio domain 2
+
+db insert domains www.google.com~Google
+
+show domains
+
+db insert companies Twilio~Cloud Comminication  Company~Twilio company 1
+
+db insert companies Twilio Pvt. Limited~Cloud Comminication Company~Twilio company 1 
+
+show companies
+
